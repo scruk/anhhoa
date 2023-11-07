@@ -14,5 +14,5 @@ const CONFIG = {
     mess: 'Em biết mà 🥰. Yêu mọi người nhiều nhiều 😘😘',
     messDesc: 'Chào anh trai của em, người thầy dẫn dắt, chỉ bảo em từ những ngày đầu. Em rất hạnh phúc vì được làm mentee của anh, mặc dù mọi người có nói gì về anh thì với em anh vẫn là người rất đặc biệt. Em mong anh sẽ ngày càng xấu trai, để bớt đi sự đẹp trai hiện tại, em chúc anh thành công hơn nữa và cho sẽ luôn là người cho em những lời khuyên bổ ích nhé! (hoặc không bổ ích, hehe)',
     btnAccept: 'Nhấn vào đây nếu anh thấy sến',
-    messLink: 'https://youtu.be/2lsjdUUha4s?feature=shared' 
+    messLink: 'https://youtube.com/shorts/nD_5n64c2PQ?feature=shared',
 }
